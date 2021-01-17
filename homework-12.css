@@ -154,7 +154,17 @@ table {
 .footer {
   display: flex;
   justify-content: space-between;
+  background: #323228;
+  color: #ffffff;
+  padding: 20px 20px 10px 20px;
 }
 .fans-link ul {
   display: flex;
+}
+.footer-logo img {
+  padding-bottom: 15px;
+}
+.fans-link li {
+  margin-top: 20px;
+  margin-left: 15px;
 }
