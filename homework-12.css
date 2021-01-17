@@ -140,11 +140,10 @@ table {
   background-repeat: no-repeat;
   background-size: 100% 47.5%;
 }
-.header {
+
+.pag-link {
   display: flex;
   justify-content: flex-end;
-
- 
 }
 .pag-link ul {
   display: flex;
@@ -152,6 +151,14 @@ table {
 .pag-link li {
   line-height: 3;
   border: 1px solid;
+}
+.major-color {
+  color: #00cc99;
+  font-size: 36px;
+}
+.secondary-color {
+  color: #ffffff;
+  font-size: 36px;
 }
 
 /*footer*/
