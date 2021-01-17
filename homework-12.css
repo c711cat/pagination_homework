@@ -127,3 +127,34 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+* {
+  box-sizing: border-box;
+}
+
+/*header*/
+
+.wrap {
+  margin: 0 auto;
+  width: 75%;
+}
+.header {
+  display: flex;
+  justify-content: flex-end;
+}
+.pag-link ul {
+  display: flex;
+}
+.pag-link li {
+  line-height: 3;
+  border: 1px solid;
+}
+
+/*footer*/
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
+.fans-link ul {
+  display: flex;
+}
