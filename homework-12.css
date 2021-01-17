@@ -136,10 +136,15 @@ table {
 .wrap {
   margin: 0 auto;
   width: 75%;
+  background-image: url(/images/bg_index.png);
+  background-repeat: no-repeat;
+  background-size: 100% 47.5%;
 }
 .header {
   display: flex;
   justify-content: flex-end;
+
+ 
 }
 .pag-link ul {
   display: flex;
