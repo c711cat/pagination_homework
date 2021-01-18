@@ -173,6 +173,7 @@ body {
   font-size: 40px;
   font-weight: bold;
   margin-right: 10px;
+  margin-bottom: 25px;
 }
 .secondary-text {
   color: #ffffff;
@@ -188,7 +189,20 @@ body {
 .header {
   margin-bottom: 30px;
 }
-
+.sign-up {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: bold;
+  background: #00cc99;
+  padding: 9px 16px;
+  border-radius: 5px;
+  margin-left: 220px;
+}
+.header-text a:hover {
+  background-color: #ffffff;
+  color: #00cc99;
+}
 /*footer*/
 
 .footer {
