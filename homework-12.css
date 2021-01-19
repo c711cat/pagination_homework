@@ -283,6 +283,45 @@ table {
   color: #00cc99;
   font-weight: bold;
 }
+.leave-message {
+  width: 100%;
+  height: 330px;
+  background: #efefef;
+  display: flex;
+  padding-top: 95px;
+  padding-right: 30px;
+  padding-bottom: 0px;
+  padding-left: 85px;
+}
+.left-text {
+  width: 50%;
+  text-align: center;
+  font-size: 26px;
+  line-height: 2;
+
+}
+.personal-information {
+  line-height: 3.2;
+  
+}
+.key-in {
+  line-height: 2.7;
+  border-radius: 5px;
+  border: none;
+  width: 100%;
+}
+.mark {
+  color: #00cc99;
+}
+.submit {
+  border: 1px solid #00cc99;
+  color: #ffffff;
+  background: #00cc99;
+  border-radius: 5px;
+  padding: 12px 35px;
+  float: right;
+  margin-top: 15px;
+}
 /*footer*/
 
 .footer {
