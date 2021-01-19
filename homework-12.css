@@ -208,6 +208,18 @@ body {
   display: flex;
   justify-content: space-between;
 }
+.featured-course-title{
+  color: #00cc99;
+}
+.supplement{
+  color: #9b9b9b;
+}
+.more{
+  color: #00cc99;
+  text-decoration: none;
+  border: 2px solid #00cc99;
+  border-radius: 5px;
+}
 .three-featured-course ul {
   display: flex;
   justify-content: space-around;
