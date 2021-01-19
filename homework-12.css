@@ -204,20 +204,27 @@ body {
   color: #00cc99;
 }
 /*content*/
-.featured-course{
+.featured-course {
   display: flex;
   justify-content: space-between;
 }
-.three-featured-course ul{
+.three-featured-course ul {
   display: flex;
- justify-content: space-around;
- 
+  justify-content: space-around;
 }
-.three-featured-course li{
+.three-featured-course li {
   text-align: center;
+  box-shadow: 2px 2px 2px 2px #9b9b9b;
+  padding: 20px 45px;
 }
-.course-discription{
+.course-discription {
   text-align: left;
+}
+.three-featured-course img{
+  margin-bottom: 10px;
+}
+.course-name{
+  margin-bottom: 20px;
 }
 /*footer*/
 
