@@ -203,6 +203,22 @@ body {
   background-color: #ffffff;
   color: #00cc99;
 }
+/*content*/
+.featured-course{
+  display: flex;
+  justify-content: space-between;
+}
+.three-featured-course ul{
+  display: flex;
+ justify-content: space-around;
+ 
+}
+.three-featured-course li{
+  text-align: center;
+}
+.course-discription{
+  text-align: left;
+}
 /*footer*/
 
 .footer {
