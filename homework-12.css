@@ -203,26 +203,25 @@ body {
   color: #00cc99;
 }
 /*content*/
-.content{
+.content {
   width: 94%;
   margin: 0 auto;
 }
 .featured-course {
-    display: flex;
+  display: flex;
   justify-content: space-between;
   padding-bottom: 25px;
   position: relative;
 }
-.featured-course-title{
+.title {
   color: #00cc99;
   font-size: 36px;
   margin-right: 15px;
-  
 }
-.supplement{
+.supplement {
   color: #9b9b9b;
 }
-.more{
+.more {
   color: #00cc99;
   text-decoration: none;
   border: 2px solid #00cc99;
@@ -233,7 +232,10 @@ body {
   position: absolute;
   right: 0px;
   bottom: 25px;
-  
+}
+.featured-course a:hover {
+  color: #ffffff;
+  background: #00cc99;
 }
 .three-featured-course ul {
   display: flex;
@@ -249,12 +251,37 @@ body {
   text-align: left;
   color: #9b9b9b;
 }
-.three-featured-course img{
+.three-featured-course img {
   margin-bottom: 10px;
 }
-.course-name{
+.course-name {
   margin-bottom: 20px;
   font-size: 20px;
+}
+.three-featured-course {
+  margin-bottom: 80px;
+}
+
+tr {
+  border-top: 1px solid #efefef;
+  border-bottom: 1px solid #efefef;
+  text-align: center;
+}
+th {
+  background: #efefef;
+}
+tr:hover {
+  background: #efefef;
+}
+table {
+  width: 100%;
+  margin-top: 25px;
+  margin-bottom: 60px;
+  line-height: 2.7;
+}
+.highlight {
+  color: #00cc99;
+  font-weight: bold;
 }
 /*footer*/
 
