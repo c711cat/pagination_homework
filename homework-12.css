@@ -155,8 +155,7 @@ body {
 .pag-link ul {
   display: flex;
 }
-.pag-link li {
-}
+
 .pag-link a {
   display: block;
   color: #ffffff;
@@ -169,23 +168,23 @@ body {
   border-bottom: 6px solid #00cc99;
   color: #00cc99;
 }
+.header-text {
+  margin-top: 55px;
+  line-height: 70px;
+  margin-left: 20px;
+  font-size: 40px;
+  height: 70%;
+}
 .major-text {
   color: #00cc99;
-  font-size: 40px;
   font-weight: bold;
   margin-right: 10px;
   margin-bottom: 25px;
 }
 .secondary-text {
   color: #ffffff;
-  font-size: 40px;
   font-weight: bold;
   line-height: 80px;
-}
-.header-text {
-  margin-top: 55px;
-  line-height: 70px;
-  margin-left: 20px;
 }
 
 .sign-up {
@@ -253,6 +252,7 @@ body {
 }
 .three-featured-course img {
   margin-bottom: 10px;
+  max-width: 100%;
 }
 .course-name {
   margin-bottom: 20px;
@@ -298,11 +298,9 @@ table {
   text-align: center;
   font-size: 26px;
   line-height: 2;
-
 }
 .personal-information {
   line-height: 3.2;
-  
 }
 .key-in {
   line-height: 2.7;
