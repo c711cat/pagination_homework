@@ -139,13 +139,19 @@ body {
   margin: 0 auto;
   width: 75%;
 }
+
 .header {
-  background-image: url(/images/bg_index.png);
-  background-size: 100%;
-  background-repeat: no-repeat;
-  background-size: 100% 100%;
+  width: 100%;
   height: 445px;
   margin-bottom: 60px;
+  position: relative;
+}
+.header img {
+  position: absolute;
+  top: 0px;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
 }
 .pag-link {
   display: flex;
