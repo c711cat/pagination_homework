@@ -392,5 +392,33 @@ table {
   top: 85px;
   left: 1020px;
 }
-.pag2-bg-pic img {
+.header {
+  position: relative;
+}
+.teacher-resume{
+  display: flex;
+  width: 70%;
+  margin: 0 auto;
+}
+.teacher-resume img{
+  margin-right: 45px;
+}
+.teacher-name{
+  color: #00cc99;
+  font-size: 40px;
+  margin-top: 40px;
+  margin-right: 140px;
+  margin-bottom: 15px;
+}
+.job-title{
+  font-size: 40px;
+}
+.resume-list li{
+  color: #9b9b9b;
+  list-style-type: disc;
+  line-height: 2;
+  
+}
+.resume-list{
+  margin-top: 20px;
 }
