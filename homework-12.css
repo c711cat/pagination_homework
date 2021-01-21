@@ -567,3 +567,10 @@ table {
   color: #00cc99;
   font-weight: bold;
 }
+.pay{
+  list-style-type: decimal;
+  color: #9b9b9b;
+  
+ 
+  margin: 19px 0 15px 65px;
+}
