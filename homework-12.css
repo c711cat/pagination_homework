@@ -535,6 +535,35 @@ table {
   position: absolute;
   right: 275px;
 }
-.search-button:hover{
+.search-button:hover {
   background: #00cc99;
+}
+
+/* pag3-content */
+
+.QA-list {
+  width: 85%;
+  margin: 0 auto;
+  margin-top: -17px;
+  margin-bottom: 50px;
+}
+.QA-list-title {
+  font-size: 40px;
+  color: #00cc99;
+  line-height: 1.5;
+}
+.QA-list-supplement {
+  color: #9b9b9b;
+}
+.QA-Q {
+  font-size: 20px;
+  line-height: 2.2;
+}
+.QA-A {
+  color: #9b9b9b;
+  line-height: 1.8;
+}
+.QA-text-mark {
+  color: #00cc99;
+  font-weight: bold;
 }
