@@ -211,6 +211,10 @@ body {
 .content {
   margin: 0 auto;
 }
+.pag1-content{
+  width: 94%;
+  margin: 0 auto;
+}
 .featured-course {
   display: flex;
   justify-content: space-between;
