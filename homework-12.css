@@ -399,6 +399,7 @@ table {
   display: flex;
   width: 70%;
   margin: 0 auto;
+  margin-bottom: 40px;
 }
 .teacher-resume img{
   margin-right: 45px;
@@ -421,4 +422,24 @@ table {
 }
 .resume-list{
   margin-top: 20px;
+}
+.course-advantage{
+  width: 65%;
+  margin: 0 auto;
+  text-align: center;
+}
+.question-title{
+  color:#00cc99;
+  font-size: 36px;
+  margin-right: 20px;
+  line-height: 2;
+}
+.question-supplement{
+  color: #9b9b9b;
+}
+.course-advantage ul{
+  text-align: left;
+  list-style-type: decimal;
+  font-size: 20px;
+  line-height: 2;
 }
