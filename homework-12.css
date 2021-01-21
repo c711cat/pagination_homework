@@ -211,7 +211,7 @@ body {
 .content {
   margin: 0 auto;
 }
-.pag1-content{
+.pag1-content {
   width: 94%;
   margin: 0 auto;
 }
@@ -397,6 +397,8 @@ table {
 .header {
   position: relative;
 }
+/* pag2-content */
+
 .teacher-resume {
   display: flex;
   width: 65%;
@@ -480,13 +482,11 @@ table {
   align-items: center;
 }
 .sign-up-item p {
-  
   font-size: 40px;
   line-height: 1.7;
   margin: 0 160px 0 130px;
 }
 .sign-up-item a {
-  
   text-decoration: none;
   color: #ffffff;
   background: #00cc99;
@@ -497,4 +497,44 @@ table {
 .sign-up-item a:hover {
   background: #ffffff;
   color: #00cc99;
+}
+/* pag3-header */
+
+.pag3-header-text {
+  text-align: center;
+  padding-left: 30px;
+}
+.QA-header-text1 {
+  color: #ffffff;
+  font-size: 40px;
+  margin-top: 64px;
+  margin-bottom: 23px;
+}
+.QA-header-text2 {
+  color: #00cc99;
+  font-size: 40px;
+  margin-bottom: 35px;
+}
+.search-bar {
+  display: flex;
+}
+.search-text {
+  padding: 16px 2px;
+  letter-spacing: 1px;
+  border-radius: 5px;
+  width: 565px;
+  margin-left: 280px;
+  position: relative;
+}
+
+.search-button {
+  background: #ffffff;
+  padding: 16.7px 21px;
+  margin-top: 1.2px;
+  border-radius: 0 5px 5px 0;
+  position: absolute;
+  right: 275px;
+}
+.search-button:hover{
+  background: #00cc99;
 }
