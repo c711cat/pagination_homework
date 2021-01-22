@@ -570,7 +570,14 @@ table {
 .pay{
   list-style-type: decimal;
   color: #9b9b9b;
-  
- 
   margin: 19px 0 15px 65px;
+}
+.refund{
+  list-style-type: disc;
+  color: #9b9b9b;
+  margin: 19px 0 15px 65px;
+  line-height: 1.5;
+}
+.refund-mark{
+  color: red;
 }
