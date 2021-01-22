@@ -581,3 +581,48 @@ table {
 .refund-mark{
   color: red;
 }
+.QA-message{
+  width: 100%;
+  height: 330px;
+  background: #ebebeb;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.QA-message-text{
+  font-size: 26px;
+  line-height: 2;
+  width: 50%;
+  
+  padding-left: 190px;
+  padding-top: 25px;
+}
+.QA-message-information{
+  width: 75%;
+  height: 200px;
+  padding-left: 0px;
+  padding-top: 0px;
+  margin: 0 0 0 40px;
+}
+.QA-message-information input {
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+ padding: 10px 2px;
+  margin-bottom: 15px;
+}
+.QA-message-information textarea{
+  border: none;
+  border-radius: 5px;
+  width: 88%;
+  height: 40%;
+}
+.QA-submit{
+  color: #ffffff;
+  background: #00cc99;
+  border-radius: 5px;
+  border: none;
+  padding: 15px 35px;
+  letter-spacing: 2px;
+  margin-left: 380px;
+}
