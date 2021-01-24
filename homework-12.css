@@ -78,11 +78,11 @@ body {
 }
 /*content*/
 
-.pag1-content {
+.page1-content {
   width: 94%;
   margin: 0 auto;
 }
-.featured-course {
+.featured-course-summary {
   display: flex;
   justify-content: space-between;
   padding-bottom: 25px;
@@ -108,15 +108,15 @@ body {
   right: 0px;
   bottom: 25px;
 }
-.featured-course a:hover {
+.featured-course-summary a:hover {
   color: #ffffff;
   background: #00cc99;
 }
-.three-featured-course ul {
+.all-featured-courses ul {
   display: flex;
   justify-content: space-between;
 }
-.three-featured-course li {
+.all-featured-courses li {
   width: 32.15%;
   text-align: center;
   box-shadow: 2px 2px 2px 2px #9b9b9b;
@@ -126,7 +126,7 @@ body {
   text-align: left;
   color: #9b9b9b;
 }
-.three-featured-course img {
+.all-featured-courses img {
   margin-bottom: 10px;
   max-width: 100%;
 }
@@ -134,7 +134,7 @@ body {
   margin-bottom: 20px;
   font-size: 20px;
 }
-.three-featured-course {
+.all-featured-courses {
   margin-bottom: 80px;
 }
 
