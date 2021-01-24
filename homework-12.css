@@ -83,8 +83,6 @@ body {
   margin: 0 auto;
 }
 .featured-course-summary {
-  display: flex;
-  justify-content: space-between;
   padding-bottom: 25px;
   position: relative;
 }
