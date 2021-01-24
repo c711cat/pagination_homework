@@ -14,7 +14,6 @@ body {
 .header {
   height: 445px;
   margin-bottom: 60px;
-  position: relative;
 }
 .header img {
   position: absolute;
