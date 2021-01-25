@@ -14,7 +14,9 @@ body {
 .header {
   height: 445px;
   margin-bottom: 60px;
+  position: relative;
 }
+
 .header img {
   position: absolute;
   top: 0px;
@@ -239,26 +241,7 @@ table {
   background: #ffffff;
   color: #00cc99;
 }
-.pag2-html-pic {
-  height: 85%;
-  width: 110%;
-}
-.pag2-css-pic {
-  height: 85%;
-  width: 110%;
-}
-.header-bg-pic {
-  width: 250px;
-  height: 140px;
-  display: flex;
-  justify-content: space-between;
-  position: absolute;
-  top: 85px;
-  left: 1020px;
-}
-.header {
-  position: relative;
-}
+
 /* pag2-content */
 
 .teacher-resume {
