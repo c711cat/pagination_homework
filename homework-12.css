@@ -195,6 +195,9 @@ table {
   float: right;
   margin-top: 15px;
 }
+.submit:hover {
+  cursor: pointer;
+}
 /*footer*/
 
 .footer {
@@ -467,4 +470,7 @@ table {
   padding: 15px 35px;
   letter-spacing: 2px;
   margin-left: 380px;
+}
+.QA-submit:hover {
+  cursor: pointer;
 }
