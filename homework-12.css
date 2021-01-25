@@ -444,8 +444,6 @@ table {
 .QA-message-information {
   width: 75%;
   height: 200px;
-  padding-left: 0px;
-  padding-top: 0px;
   margin: 0 0 0 40px;
 }
 .QA-message-information input {
