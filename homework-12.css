@@ -407,10 +407,12 @@ table {
   color: #9b9b9b;
   line-height: 1.8;
 }
-.QA-text-mark {
+.QA-text-mark a {
   color: #00cc99;
   font-weight: bold;
+  text-decoration: none;
 }
+
 .pay {
   list-style-type: decimal;
   color: #9b9b9b;
