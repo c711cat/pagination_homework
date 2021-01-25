@@ -141,12 +141,13 @@ tr {
   border-bottom: 1px solid #efefef;
   text-align: center;
 }
-th {
-  background: #efefef;
-}
 tr:hover {
   background: #efefef;
 }
+th {
+  background: #efefef;
+}
+
 table {
   width: 100%;
   margin-top: 25px;
