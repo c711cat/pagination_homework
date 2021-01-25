@@ -431,7 +431,6 @@ table {
   height: 330px;
   background: #ebebeb;
   display: flex;
-  justify-content: space-around;
   align-items: center;
 }
 .QA-message-text {
