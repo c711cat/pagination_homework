@@ -173,14 +173,13 @@ table {
   font-size: 26px;
   line-height: 2;
 }
-.personal-information {
-  line-height: 3.2;
-}
+
 .key-in {
   line-height: 2.7;
   border-radius: 5px;
   border: none;
   width: 100%;
+  margin: 9px 0px;
 }
 .leave-message-mark {
   color: #00cc99;
